@@ -8,7 +8,7 @@
 
 - Recursively traverses the specified directory.
 - Computes the checksum of each file using MD5
-- Deletes duplicate files, keeping the first occurrence.
+- Deletes duplicate files, keeping a single occurrence.
 
 ## Requirements
 
@@ -62,7 +62,7 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 
 ## Author
 
-Created by [Stephen Bass](https://github.com/AAHYWEH)
+Created by [bass](https://github.com/AAHYWEH)
 
 ---
 
